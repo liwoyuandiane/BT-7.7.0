@@ -9,7 +9,7 @@ unzip LinuxPanel-7.7.0.zip
 cd /root/panel
 bash update.sh
 rm -f /www/server/panel/data/bind.pl
-```shell
+```
 
 
 #加速链接
@@ -20,4 +20,4 @@ unzip LinuxPanel-7.7.0.zip
 cd /root/panel
 bash update.sh
 rm -f /www/server/panel/data/bind.pl
-```shell
+```
