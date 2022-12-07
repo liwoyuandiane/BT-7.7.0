@@ -31,7 +31,7 @@ bash update.sh
 rm -f /www/server/panel/data/bind.pl
 ```
 
-# 临时屏蔽强制绑定手机
+### 临时屏蔽强制绑定手机
 ```shell
 sed -i "s|bind_user == 'True'|bind_user == 'XXXX'|" /www/server/panel/BTPanel/static/js/index.js
 
